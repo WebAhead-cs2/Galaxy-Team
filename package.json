@@ -1,0 +1,23 @@
+{
+  "name": "galaxy-team2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebAhead-cs2/galaxy-team2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WebAhead-cs2/galaxy-team2/issues"
+  },
+  "homepage": "https://github.com/WebAhead-cs2/galaxy-team2#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
